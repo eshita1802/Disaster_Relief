@@ -4,7 +4,7 @@
 ## About the project
 
 I used the knowledge of wildfires, satellite data, and machine learning to create a system that predicts how fires will spread. Satellites can see large areas quickly and reach even remote places. Knowing where a fire will go next could be crucial for disaster response efforts, like protecting towns or buildings in danger. 
-The system uses information from MODIS and VIIRS satellites, which have been collecting data from various parts of the light spectrum for a long time, along with elevation and land cover data. Satellite Vu's models were better at predicting fire patterns for the next day than a simpler model that just assumed the fire would stay the same size. They also showed how these predictions could be used in a helpful application for fire managers. In the future, Satellite Vu hopes to use its high-resolution thermal imagery to improve the predictions even further, making them more precise in terms of location and helping pinpoint specific communities and areas at risk
+The system uses information from MODIS and VIIRS satellites, which have been collecting data from various parts of the light spectrum for a long time, along with elevation and land cover data. The models were better at predicting fire patterns for the next day than a simpler model that just assumed the fire would stay the same size. They also showed how these predictions could be used in a helpful application for fire managers. 
 
 
 ## Dataset preparation
